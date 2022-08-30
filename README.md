@@ -2,29 +2,36 @@
  **Exponentes**: Liliana Hurtado, Ariel Ramos y Sofía Martin 
 
 **¿Por qué utilizar herramientas informáticas en la educación ?**
+
 La utilización de los recursos informáticos en las aulas de las escuelas genera un desafío para los docentes, en este taller veremos cómo utilizarlos para la enseñanza de **Matemática y Ciencia de Datos** a través del lenguaje **Python** y su implementación en contextos presenciales o virtuales a través del uso de una herramienta online - **JupyterHub** en un VPS (Servidor Privado Virtual - Virtual Private Server) . 
 
 **¿Cómo consutrimos este taller**
+
 Los recursos utilizados fueron creciendo gracias a muchas personas de las comunidades de **Python Norte** y **Python Argentina** que contribuyeron a través de diferentes formas. 
 
 **¿Qué veremos?**
+
 Se abordará la introducción en el uso de **Jupyter Notebook**:
 * cómo agregar texto con Markdown, gráficos, videos, gif. 
 * Se mostrará el uso de widgets para la interacción entre las ecuaciones matemáticas. 
 * Se realizará análisis de datos de diferentes áreas con la librería Pandas, y la visualización de gráficos para la representación del análisis con las librerías Matplotlib y Plotly.
 
-**¿Por qué es importante herramientas open source?
+**¿Por qué es importante herramientas open source?**
+
 La optimización de las herramientas open source favorecen la inclusión en procesos de innovación educativa de los establecimientos dedicados a la enseñanza, públicos y privados en todos los niveles educativos y la implementación de Python en un VPS con Jupyter HUB/Notebook en diferentes campos disciplinares.
 
 **¿Cómo es la metodología  pedagógica propuesta?**
+
 Nos proponemos interpelar las concepciones tradicionales de enseñanza y aprendizaje a través de Jupyter Notebook, una herramienta **dinámica** e **interactiva** que potencia las relaciones entre los actores intervinientes en el campo pedagógico favoreciendo la estructuración en comunidad de aprendizaje con **perspectiva ubicua**, mediante la utilización de **multi lenguajes comunicacionales**. 
 Se presenta la herramienta como una “caja de arena” que sirve para resolver temas- proyectos y problemas en los cuales cada uno, mediante el **despliegue del juego** fortalece la **creatividad, innovación y autonomía**.
 Esta metodología de trabajo facilita la participación de los actores, (estudiantes y docentes), en multi roles en el campo de la **enseñanza inmersiva** y el aprendizaje mediado por Python y Jupyter HUB/Notebook.
 
 **¿Qué es un cuaderno/notebook?**
+
 El entorno de enseñanza y aprendizaje descripto, se completa con la implementación de un cuaderno que favorece el intercambio de roles para la retroalimentación formativa ubicua y autónoma. Este cuaderno permite no solo registrar los materiales y las actividades, sino también la documentación de las múltiples intervenciones y sus resultados, producto del juego y el intercambios de roles en el contexto de una acción pedagógica.
 
 **Habilidades que fomenta**
+
 La retroalimentación formativa permite a los estudiantes:
 
 * Probar posibilidades
