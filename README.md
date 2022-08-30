@@ -1,5 +1,17 @@
-Recursos para enseñar con Jupyter
- Exponentes: Liliana Hurtado, Ariel Ramos y Sofía Martin La utilización de los recursos informáticos en las aulas de las escuelas genera un desafío para los docentes, en este taller veremos cómo utilizarlos para la enseñanza de Matemática y Ciencia de Datos a través del lenguaje Python y su implementación en contextos presenciales o virtuales a través del uso de una herramienta online - JupyterHub en un VPS (Servidor Privado Virtual - Virtual Private Server) . Los recursos utilizados fueron creciendo gracias a muchas personas de las comunidades de Python Norte y Python Argentina que contribuyeron a través de diferentes formas. Se abordará la introducción en el uso de Jupyter Notebook, cómo agregar texto con Markdown, gráficos, videos, gif. Se mostrará el uso de widgets para la interacción entre las ecuaciones matemáticas. Se realizará análisis de datos de diferentes áreas con la librería Pandas, y la visualización de gráficos para la representación del análisis con las librerías Matplotlib y Plotly.
+# Recursos para enseñar con Jupyter
+ **Exponentes**: Liliana Hurtado, Ariel Ramos y Sofía Martin 
+
+**¿Por qué utilizar herramientas informáticas en la educación ?**
+La utilización de los recursos informáticos en las aulas de las escuelas genera un desafío para los docentes, en este taller veremos cómo utilizarlos para la enseñanza de **Matemática y Ciencia de Datos** a través del lenguaje **Python** y su implementación en contextos presenciales o virtuales a través del uso de una herramienta online - **JupyterHub** en un VPS (Servidor Privado Virtual - Virtual Private Server) . 
+
+**¿Cómo consutrimos este taller**
+Los recursos utilizados fueron creciendo gracias a muchas personas de las comunidades de **Python Norte** y **Python Argentina** que contribuyeron a través de diferentes formas. 
+
+**¿Qué veremos?**
+Se abordará la introducción en el uso de **Jupyter Notebook**:
+* cómo agregar texto con Markdown, gráficos, videos, gif. 
+* Se mostrará el uso de widgets para la interacción entre las ecuaciones matemáticas. 
+* Se realizará análisis de datos de diferentes áreas con la librería Pandas, y la visualización de gráficos para la representación del análisis con las librerías Matplotlib y Plotly.
 
 La optimización de las herramientas open source favorecen la inclusión en procesos de innovación educativa de los establecimientos dedicados a la enseñanza, públicos y privados en todos los niveles educativos y la implementación de Python en un VPS con Jupyter HUB/Notebook en diferentes campos disciplinares.
 
@@ -10,12 +22,11 @@ El entorno de enseñanza y aprendizaje descripto, se completa con la implementac
 
 La retroalimentación formativa permite a los estudiantes:
 
-Probar posibilidades
-Identificar caminos críticos y no críticos de resolución.
-
-Comprender las formas de hacer y resolver.
-Identificar las posibilidades de innovación para resolver
-Autoevaluar- se individual y colectivamente Valorar los tiempos de aprendizaje individual y colectivo.
+* Probar posibilidades
+* Identificar caminos críticos y no críticos de resolución.
+* Comprender las formas de hacer y resolver.
+* Identificar las posibilidades de innovación para resolver
+* Autoevaluar- se individual y colectivamente Valorar los tiempos de aprendizaje individual y colectivo.
 
 De este modo, la propuesta configura un entorno de enseñanza y aprendizaje encuadrado en la enseñanza poderosa, se nutre de visiones y convicciones que refieren al abordaje transdisciplinar, creativo, autónomo y autoregulado, COLABORATIVO, lúdico y construido en una matriz multilenguaje, centrado en un sujeto de aprendizaje deseante. 
 
