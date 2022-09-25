@@ -38,11 +38,18 @@ La retroalimentación formativa permite a los estudiantes:
 * Identificar caminos críticos y no críticos de resolución.
 * Comprender las formas de hacer y resolver.
 * Identificar las posibilidades de innovación para resolver
-* Autoevaluar- se individual y colectivamente Valorar los tiempos de aprendizaje individual y colectivo.
+* Autoevaluar- se individual y colectivamente 
+* Valorar los tiempos de aprendizaje individual y colectivo.
 
 De este modo, la propuesta configura un entorno de enseñanza y aprendizaje encuadrado en la enseñanza poderosa, se nutre de visiones y convicciones que refieren al abordaje transdisciplinar, creativo, autónomo y autoregulado, COLABORATIVO, lúdico y construido en una matriz multilenguaje, centrado en un sujeto de aprendizaje deseante. 
+## ¿Qué necesitamos para el taller?
+* Una computadora para poder realizar los ejercicios
+* Un usuario para acceder al VPS (provista en el taller) o una cuenta de gmail para acceder a la herramienta Google Colab
 
-## Recursos utilizados
+## Índice de los notebooks
+* [Motivación del taller](00-Liliana-Motivacion.ipynb)
+* 
+## Recursos para introducirse
 * **Taller sobre uso de Jupyter en Matemáticas** Presentación en PyconUs 2022: https://www.youtube.com/watch?v=sq4t8HfIPec&list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl&index=95 
 * **Taller OnLine Salta**, Argentina: ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw - Desarrollado por Juan Luis Cano Rodriguez (desde España) @astrojuanlu Marzo 2021
 * Taller OnLine: PyConAr 2021 OnLine, Rosario de Santa Fe, Argentina - https://www.youtube.com/watch?v=L-j9vZdgAOs - Sofía Martin, Sebastian Flores Benner, Liliana Hurtado, Ariel Ramos https://github.com/asnramos/pycon_ar Octubre 2021
