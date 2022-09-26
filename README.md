@@ -47,8 +47,11 @@ De este modo, la propuesta configura un entorno de enseñanza y aprendizaje encu
 * Un usuario para acceder al VPS (provista en el taller) o una cuenta de gmail para acceder a la herramienta Google Colab
 
 ## Índice de los notebooks
-* [Motivación del taller](00-Liliana-Motivacion.ipynb)
-* 
+* [Contenidos  del taller](00-Contenidos-del-taller.ipynb)
+* [Motivación pedagógica](01-Liliana-Motivacion.ipynb)
+* [Jugando con Jupyter](02-PyconUS-Ariel-Iniciando-Jupyter-Widgets.ipynb)
+* [Ejemplos de MAtemática](03-EjemplosMatematica.ipynb)
+* [Miramos los datos](04-EjemplosAnalisisDatos.ipynb) 
 ## Recursos para introducirse
 * **Taller sobre uso de Jupyter en Matemáticas** Presentación en PyconUs 2022: https://www.youtube.com/watch?v=sq4t8HfIPec&list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl&index=95 
 * **Taller OnLine Salta**, Argentina: ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw - Desarrollado por Juan Luis Cano Rodriguez (desde España) @astrojuanlu Marzo 2021
